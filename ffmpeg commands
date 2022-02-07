@@ -1,0 +1,3 @@
+ffmpeg -i "./trimmed videos/catscratching.mov" -vf scale=240:-1 -qscale 2 "frames/out-%03d.jpg"
+
+the ligher images are flipped may be an issue
