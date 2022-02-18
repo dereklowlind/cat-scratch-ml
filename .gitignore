@@ -3,3 +3,4 @@ original_videos/
 trimmed_videos/
 .DS_Store
 __pycache__/
+run_log.txt
