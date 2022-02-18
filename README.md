@@ -1,5 +1,5 @@
 # About
-I decided to try out fastai and I thought it would be cool to automate rewarding the cat for scratching his scratching post. This repo is the code for connecting the webcam and arduino to the laptop running the exported fastai ML file called export.pkl.
+My first Fastai project. I automated rewarding the cat for scratching his scratching post. Demo https://www.youtube.com/watch?v=aNJhasI9dQ8
 # How to run
-run run_fastai.py
-requires the ports for the webcam and the arduino serial connection to be set
+Run run_fastai.py  
+Requires the ports for the webcam and the arduino serial connection to be set to the specific ports for your setup
